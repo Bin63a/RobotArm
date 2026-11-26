@@ -2,7 +2,7 @@
 % DONG HOC THUAN ROBOT 3DOF
 % L1 = 114 mm
 % L2 = 162 mm
-% L3 = 130 mm
+% L3 = 150 mm
 % d1 = 250 mm
 % =========================================================
 
@@ -14,7 +14,7 @@ close all;
 
 L1 = 114;      % mm
 L2 = 162;      % mm
-L3 = 130;      % mm
+L3 = 150;      % mm
 d1 = 250;      % mm
 
 % 2. NHAP GOC KHOP
