@@ -6,7 +6,7 @@ close all;
 % 1. THONG SO ROBOT (mm)
 L1 = 114;
 L2 = 162;
-L3 = 130;
+L3 = 150;
 d1 = 250;
 
 %Nhập toạ độ mục tiêu
